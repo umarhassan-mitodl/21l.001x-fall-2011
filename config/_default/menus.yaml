@@ -1,0 +1,20 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 960619ba-8607-0b41-edac-e5d5106f449a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: cfc6cc3f-3656-9afc-6c6c-02ce02bf107c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 33372936-318f-5fd1-ac97-f40ede36b494
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 5315e1fd-6fd3-57cf-e851-773d1e3e3d92
+  name: Advice on Writing
+  pageRef: /pages/assignments/advice-on-writing
+  parent: 33372936-318f-5fd1-ac97-f40ede36b494
+  weight: 40
