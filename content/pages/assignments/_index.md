@@ -2,8 +2,6 @@
 content_type: page
 description: This section provide guidelines on essay writing and information on the
   writing assignments of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,7 +17,7 @@ Guidelines for Essay Writing
 
 Pick one of the essay questions, and respond to it in an essay of 7–8 pages. Make sure to have a thesis, and to flesh out your argument and support it with examples from the text. Refer to the "Advice for Writing" section.
 
-Papers must be submitted in a 12-type font (preferably Times New Roman or Arial); your essays must also be double-spaced. Use the MLA guidelines for citation (For more on the MLA format, visit the [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/resource/747/01/)).
+Papers must be submitted in a 12-type font (preferably Times New Roman or Arial); your essays must also be double-spaced. Use the MLA guidelines for citation (For more on the MLA format, visit the {{% resource_link "05143d0b-298c-4b7d-b65a-34ce07e4950d" "Purdue Online Writing Lab" %}}).
 
 When I return your essay, you have **two** days to decide if you'd like to revise it. If you do, we will schedule a meeting to discuss your paper, and work together to make plans for revising it. You will then have a week to submit your revision. You must revise at least one of your first two papers. You cannot submit a re-write without talking to me first.
 

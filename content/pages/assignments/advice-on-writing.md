@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: 'This page provides advice on writing essays for this course.  '
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
